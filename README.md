@@ -1,7 +1,6 @@
 ## 👨‍💻 About Me
 - 🔭 I’m a **Computer Science Student** at the Technical University of Cluj-Napoca (UTCN).
 - 🌱 Currently mastering **Java**, **Spring Boot**, and **SQL**.
-- 🏦 Former **Financial Department Member** at OSUT, where I learned the value of precision and data integrity.
 - ⚡ Fun fact: In my free time, I'm making beats. I love the parallel between layering sounds and layering code.
 
 ## 🛠️ Tech Stack
